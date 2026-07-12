@@ -1,6 +1,5 @@
 # multiblox update log
-
----
+**maskware 2020 - 2026**
 
 ## v1.0 — 12/07/2026
 **initial release**
